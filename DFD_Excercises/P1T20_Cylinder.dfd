@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+120
+"CylinderSoftware Maker: Nataly vargas  This software calculate the volume of an cylinder usin the radius and the hight"
+4
+1
+31
+"Please input the radius value"
+5
+1
+8
+v_radius
+4
+1
+31
+"Please input the height value"
+5
+1
+8
+v_height
+7
+0
+1
+26
+v_radius<=0 or v_height<=0
+6
+1
+6
+Volume
+35
+3.141592*v_radius*v_radius*v_height
+4
+1
+39
+"The volume of the cylinder is ",volume
+13
+4
+1
+48
+"ERR: Radius or height cant be negative or cero"
+13
+1

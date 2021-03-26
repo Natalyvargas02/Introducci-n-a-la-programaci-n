@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+141
+"HipotenuseSofteare Maker Nataly vargas This software will calculate the hypotenuse of a triangle after introduce the values of the cathetus"
+4
+1
+39
+"Please input the first cathetus value"
+5
+1
+11
+v_cathetus1
+4
+1
+40
+"Please input the second cathetus value"
+5
+1
+11
+v_cathetus2
+7
+0
+1
+30
+v_cathetus1<1 OR v_cathetus2<1
+6
+3
+12
+v_2cathetus1
+23
+v_cathetus1*v_cathetus1
+8
+cathetus
+36
+v_cathetus2*v_cathetus2+v_2cathetus1
+10
+Hypotenuse
+14
+sqrt(cathetus)
+13
+4
+1
+47
+"ERR: Cathetus values cant be negative or nule"
+13
+4
+1
+31
+"The hypotenuse is ",Hypotenuse
+1

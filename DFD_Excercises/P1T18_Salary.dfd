@@ -1,0 +1,59 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+115
+"SalarySoftware Maker: Nataly vargas This software recieve de salary per month and the worked days of and employee"
+4
+1
+34
+"Please input your mensual salary"
+5
+1
+8
+v_salary
+4
+1
+31
+"Please input your worked days"
+5
+1
+6
+v_days
+7
+0
+1
+23
+v_days >30 or v_days <0
+7
+0
+1
+11
+v_salary <0
+6
+1
+11
+TotalSalary
+18
+v_salary/30*v_days
+4
+1
+38
+"Your salary is ",TotalSalary," Pesos"
+13
+4
+1
+30
+"ERR: salary cant be negative"
+13
+13
+4
+1
+45
+"ERR: number of days need to be between 0-30"
+13
+1
